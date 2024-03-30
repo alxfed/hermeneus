@@ -1,2 +1,2 @@
-# Package name
-Package Name
+# Hermeneus
+From ἑρμηνεύς (hermeneus, "translator, interpreter").
